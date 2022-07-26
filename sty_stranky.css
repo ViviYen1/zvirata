@@ -3,13 +3,23 @@ body {
 }
 
 div {
-    height:100px;
+    height: 100px;
+    height: 100px;
     width: 100px;
-    background-color: pink
+    /* background-color: pink ; */
 }
 
-.paws {
-    margin: 0 auto;
-    row
-    
+body {
+    background-color: white;
 }
+
+.zvir {
+    text-align: center;
+    border: solid 5px pink;
+    width: 100vw;
+
+}
+
+
+
+.paws {}
