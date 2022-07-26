@@ -1,9 +1,8 @@
 body {
     background-color: white
 }
-p {
-    margin-top: 400px; color:pink;
-    margin-bottom: 400px; color: pink;
-    margin-right: 400px; color:pink;
-    margin-left: 400px; color: pink;
+div {
+    height: 100px;
+    width: 100%;
+    background-color: pink;
   }
