@@ -2,16 +2,7 @@ body {
     background-color: white
 }
 
-div {
-    height: 100px;
-    height: 100px;
-    width: 100px;
-    /* background-color: pink ; */
-}
 
-body {
-    background-color: white;
-}
 
 .zvir {
     text-align: center;
@@ -22,4 +13,9 @@ body {
 
 
 
-.paws {}
+.paws {
+    margin: 0 auto;
+    justify-content:row;
+    
+    text-align: center;
+}
