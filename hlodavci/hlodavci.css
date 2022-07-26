@@ -1,3 +1,9 @@
 .galerie img {
-    border: 8px solid pink;
+    border: 6px solid pink;
+    width: 500px; 
+
+}
+
+.veverka {
+    width: 500px;
 }
