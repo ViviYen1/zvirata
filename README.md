@@ -1,2 +1,0 @@
-# zvirata
- vtipna zvirata
