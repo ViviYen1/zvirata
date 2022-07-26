@@ -1,8 +1,14 @@
 body {
     background-color: white
 }
+<html>
+<head>
+<style>
 div {
-    height: 100px;
-    width: 100%;
-    background-color: pink;
-  }
+    height:100px;
+    width: 100px;
+    background-color: pink
+}
+</style>
+</head>
+</html>
