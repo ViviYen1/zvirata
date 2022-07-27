@@ -5,12 +5,17 @@
 }
 
 .kopytnicii {
-        
-        font-family: 'Kanit', sans-serif;
-        text-align: center;
-        border: solid 5px pink;
-        width: 100vw;
-        background-color: pink;width: 200px;
+
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    border: solid 5px pink;
+    width: 100vw;
+    background-color: pink;
+    width: 200px;
+
+    text-align: center;
+
+
 }
 
 .kopytníci {
