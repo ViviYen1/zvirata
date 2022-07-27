@@ -55,4 +55,17 @@ h3 {
     border: solid 5px pink;
     width: 100vw;
     background-color: pink;
+<<<<<<< Updated upstream
+=======
+}
+
+.imgss:hover {
+    transform: scale(1.1);
+}
+.ooo:hover {
+    transform: scale(1.1);
+}
+.jjj:hover {
+    transform: scale(1.1);
+>>>>>>> Stashed changes
 }
