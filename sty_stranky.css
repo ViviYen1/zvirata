@@ -85,7 +85,9 @@ h3 {
 .ahoj {
     font-family: 'Square Peg', cursive;
 }
-
+.paws{
+    display: flex;
+}
 .charity {
     font-family: 'Square Peg', cursive;
 }
