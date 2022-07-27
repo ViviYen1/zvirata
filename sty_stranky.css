@@ -108,8 +108,9 @@ h3 {
 
 .onas {
     text-align: center;
-    border: solid 5px pink;
+    border: solid 7px pink;
     width: 100vw;
+
 }
 
 .sipka:hover {
@@ -131,12 +132,16 @@ h3 {
 .hello {
     text-decoration: underline;
 }
-<<<<<<< Updated upstream
+
 
 .odkaz {
     background-color: pink;
-=======
-.gh{
     text-align: center;
->>>>>>> Stashed changes
+
+}
+
+.packy {
+    border: solid 7px pink;
+    width: 100vw;
+
 }
