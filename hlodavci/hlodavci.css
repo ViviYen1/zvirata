@@ -1,8 +1,12 @@
 .galerie img {
     border: 6px solid pink;
-    width: 500px; 
+    width: 500px;
 }
 
 .veverka {
     width: 500px;
+}
+
+.hlodav {
+    font-family: 'Kanit', sans-serif;
 }
