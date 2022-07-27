@@ -87,5 +87,11 @@ h3 {
 }
 .paws{
     display: flex;
+}
+.charity {
+    font-family: 'Square Peg', cursive;
+}
+
+.who {
     font-family: 'Square Peg', cursive;
 }
