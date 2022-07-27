@@ -85,3 +85,7 @@ h3 {
 .ahoj {
     font-family: 'Square Peg', cursive;
 }
+.paws{
+    display: flex;
+    font-family: 'Square Peg', cursive;
+}
