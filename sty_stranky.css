@@ -54,7 +54,6 @@ h3 {
     text-align: center;
     border: solid 5px pink;
     width: 100vw;
-    background-color: pink;
 }
 
 .imgss:hover {
@@ -108,12 +107,14 @@ h3 {
 
 .onas {
     text-align: center;
-    border: solid 5px pink;
+    border: solid 7px pink;
     width: 100vw;
+
 }
 
 .sipka:hover {
     transform: scale(1.1);
+
 }
 
 .cau {
@@ -131,12 +132,23 @@ h3 {
 .hello {
     text-decoration: underline;
 }
-<<<<<<< Updated upstream
 
 .odkaz {
     background-color: pink;
-=======
+    }
 .gh{
     text-align: center;
->>>>>>> Stashed changes
+}
+
+
+.odkaz {
+    background-color: pink;
+    text-align: center;
+
+}
+
+.packy {
+    border: solid 7px pink;
+    width: 100vw;
+
 }

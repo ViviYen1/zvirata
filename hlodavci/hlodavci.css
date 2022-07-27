@@ -22,6 +22,32 @@
     width: 100%;
     flex-wrap: wrap;
 }
-.sipka:hover{
+
+.sipka:hover {
     transform: scale(1.1);
+}
+
+.sipka {
+    position: relative;
+    width: 300px;
+    background-color: pink;
+}
+
+.her {
+    display: flex;
+
+}
+
+.csd {
+    color: black;
+    font-family: 'Square Peg', cursive;
+    position: absolute;
+    top: 90px;
+    left: 167px
+    
+    
+    
+}
+.pink {
+    background-color: pink;
 }
