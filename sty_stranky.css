@@ -1,5 +1,6 @@
 body {
-    background-color: white
+    background-color: white;
+    font-family: 'Kanit', sans-serif;
 }
 
 
@@ -16,14 +17,16 @@ body {
 
     text-align: center;
 }
-
-.under {
-    font-family: 'Dancing Script'; 
-
-}
-.hhh {
+h3{
     font-family: 'Dancing Script';
 }
+
+.charita {
+    text-align: center;
+    
+
+}
+
 
 
 
