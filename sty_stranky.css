@@ -17,15 +17,16 @@ body {
 
     text-align: center;
 }
-h3{
+
+h3 {
     font-family: 'Dancing Script';
 }
 
 .charita {
     text-align: center;
-    
 
-} 
+
+}
 
 .onas {
     text-align: center;
@@ -47,7 +48,8 @@ h3{
 
     text-align: center;
 }
-.charita{ 
+
+.charita {
     font-family: 'Kanit', sans-serif;
     text-align: center;
     border: solid 5px pink;
