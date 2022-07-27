@@ -94,4 +94,7 @@ h3 {
 
 .who {
     font-family: 'Square Peg', cursive;
+    text-align: center;
+    border: solid 5px pink;
+    width: 100vw;
 }
