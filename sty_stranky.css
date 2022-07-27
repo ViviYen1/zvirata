@@ -81,3 +81,7 @@ h3 {
 .uer:hover{
     transform: scale(1.1);
 }
+
+.ahoj {
+    font-family: 'Square Peg', cursive;
+}
