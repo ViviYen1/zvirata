@@ -22,3 +22,6 @@
     width: 100%;
     flex-wrap: wrap;
 }
+.sipka:hover{
+    transform: scale(1.1);
+}
