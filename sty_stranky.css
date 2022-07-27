@@ -108,8 +108,9 @@ h3 {
 
 .onas {
     text-align: center;
-    border: solid 5px pink;
+    border: solid 7px pink;
     width: 100vw;
+
 }
 
 .sipka:hover {
@@ -141,4 +142,17 @@ h3 {
     }
 .gh{
     text-align: center;
+}
+
+
+.odkaz {
+    background-color: pink;
+    text-align: center;
+
+}
+
+.packy {
+    border: solid 7px pink;
+    width: 100vw;
+
 }
