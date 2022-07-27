@@ -60,42 +60,48 @@ h3 {
 .imgss:hover {
     transform: scale(1.1);
 }
+
 .ooo:hover {
     transform: scale(1.1);
 }
+
 .jjj:hover {
     transform: scale(1.1);
 
 }
-.ddd:hover{
+
+.ddd:hover {
     transform: scale(1.1);
 }
 
-.abc:hover{
+.abc:hover {
     transform: scale(1.1);
 }
 
-.abcds:hover{
+.abcds:hover {
     transform: scale(1.1);
 }
-.uer:hover{
+
+.uer:hover {
     transform: scale(1.1);
 }
 
 .ahoj {
     font-family: 'Square Peg', cursive;
 }
-.paws{
+
+.paws {
     display: flex;
 }
+
 .charity {
     font-family: 'Square Peg', cursive;
-    
+
 }
 
 .who {
     font-family: 'Square Peg', cursive;
-    
+
 }
 
 .onas {
@@ -103,9 +109,11 @@ h3 {
     border: solid 5px pink;
     width: 100vw;
 }
-.sipka:hover{
+
+.sipka:hover {
     transform: scale(1.1);
 }
+
 .cau {
     text-decoration: underline;
 }
