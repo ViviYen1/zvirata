@@ -56,3 +56,14 @@ h3 {
     width: 100vw;
     background-color: pink;
 }
+
+.imgss:hover {
+    transform: scale(1.1);
+}
+.ooo:hover {
+    transform: scale(1.1);
+}
+.jjj:hover {
+    transform: scale(1.1);
+
+}
