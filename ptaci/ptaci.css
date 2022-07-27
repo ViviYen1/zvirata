@@ -1,0 +1,29 @@
+.obr img {
+    border: 6px solid pink;
+    width: 30%;
+
+}
+
+.f {
+    width: 200px;
+}
+
+.pta {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    border: solid 5px pink;
+    width: 100vw;
+    background-color: pink;
+
+
+
+
+    text-align: center;
+}
+
+.obr {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-wrap: wrap;
+}
