@@ -1,0 +1,29 @@
+.lo img {
+    border: 6px solid pink;
+    width: 30%;
+
+}
+
+.sa {
+    width: 200px;
+}
+
+.bezkrk {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    border: solid 5px pink;
+    width: 100vw;
+    background-color: pink;
+
+
+
+
+    text-align: center;
+}
+
+.lo {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-wrap: wrap;
+}
