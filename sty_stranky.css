@@ -103,7 +103,9 @@ h3 {
     border: solid 5px pink;
     width: 100vw;
 }
-
+.sipka:hover{
+    transform: scale(1.1);
+}
 .cau {
     text-decoration: underline;
 }
