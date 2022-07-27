@@ -90,6 +90,7 @@ h3 {
 }
 .charity {
     font-family: 'Square Peg', cursive;
+    
 }
 
 .who {
@@ -101,4 +102,20 @@ h3 {
     text-align: center;
     border: solid 5px pink;
     width: 100vw;
+}
+
+.cau {
+    text-decoration: underline;
+}
+
+.volba {
+    text-decoration: underline;
+}
+
+.about {
+    text-decoration: underline;
+}
+
+.hello {
+    text-decoration: underline;
 }
