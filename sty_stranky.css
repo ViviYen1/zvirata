@@ -7,11 +7,12 @@ body {
 .zvir {
 
     font-family: 'Kanit', sans-serif;
+    font-family: 'Dancing Script', kurzíva;
     text-align: center;
     border: solid 5px pink;
     width: 100vw;
-    
-    
+
+
     text-align: center;
 }
 
