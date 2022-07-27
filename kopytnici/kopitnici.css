@@ -1,4 +1,4 @@
-.obrazky img {
+.obrazicek img {
     border: 6px solid pink;
     width: 30%;
 
@@ -21,7 +21,7 @@
     text-align: center;
 }
 
-.obrazky {
+.obrazicek {
     display: flex;
     justify-content: space-evenly;
     width: 100%;
