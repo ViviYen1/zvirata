@@ -2,10 +2,6 @@ body {
     background-color: white
 }
 
-.paws {
-    margin: auto;
-    text-align: center;
-}
 
 
 .zvir {
@@ -14,4 +10,5 @@ body {
     width: 100vw;
     
     
+    text-align: center;
 }
