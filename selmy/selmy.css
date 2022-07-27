@@ -1,6 +1,6 @@
 .obrazky img {
     border: 6px solid pink;
-    width: 450px;
+    width: 30%;
 
 }
 
@@ -19,4 +19,11 @@
 
 
     text-align: center;
+}
+
+.obrazky {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-wrap: wrap;
 }
