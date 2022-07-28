@@ -10,7 +10,6 @@
 .livee {
     border: solid 7px pink;
     width: 100vw;
-    background-color: pink;
     text-align: center;
     font-family: 'Square Peg', cursive;
 }
@@ -19,4 +18,14 @@
     border: solid 7px pink;
     width: 100vw;
     background-color: pink;
+}
+
+.games {
+    border: solid 7px pink;
+    width: 100vw;
+    font-family: 'Square Peg', cursive;
+}
+
+.giff {
+    text-align: center;
 }
