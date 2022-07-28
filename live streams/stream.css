@@ -17,4 +17,15 @@
 .texty {
     border: solid 7px pink;
     width: 100vw;
+    font-family: 'Square Peg', cursive;
+}
+
+.streamii {
+    border: solid 7px pink;
+    width: 100vw;
+    background-color: pink;
+}
+
+.streamy {
+    font-family: 'Square Peg', cursive;
 }
