@@ -205,3 +205,22 @@ h3 {
     font-family: 'Kanit', sans-serif;
     text-decoration: underline;
 }
+.bones{
+    display: table-column;
+    width: 30vw;
+    justify-content: space-between;
+
+}
+.iop-text h2 {
+    z-index: 999;
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.3);
+    size: 35px;
+    
+}
+.iop-text {
+    margin-top: -150px;
+    margin-bottom: 1px;
+ justify-content: space-between;
+    }
