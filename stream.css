@@ -1,17 +1,17 @@
 .videos {
-     text-decoration: underline;
-     text-align: center;
-     font-family: 'Kanit', sans-serif;
-     border: solid 7px pink;
-     width: 100vw;
-     background-color: pink;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    border: solid 7px pink;
+    width: 100vw;
+    background-color: pink;
 }
 
 .lives {
     border: solid 7px pink;
-     width: 100vw;
-     font-family: 'Square Peg', cursive;
-     text-align: start;
+    width: 100vw;
+    font-family: 'Square Peg', cursive;
+    text-align: start;
 }
 
 .texty {
@@ -29,19 +29,17 @@
 
 .str {
     font-family: 'Square Peg', cursive;
-     width: 100vw;
-     border: solid 7px pink;
-     display: flex;
-     justify-content: space-evenly;
-     padding: 10px;
+    width: 100vw;
+    border: solid 7px pink;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
 }
 
-.gif {
-    text-align: center;
-}
-.gif :hover{
+.gif :hover {
     transform: scale(1.1);
 }
+
 .sipka:hover {
     transform: scale(1.1);
 }
@@ -65,4 +63,4 @@
     top: 200px;
     left: 165px;
     font-size: larger;
-    }
+}
