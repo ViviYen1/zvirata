@@ -1,3 +1,7 @@
+html {
+    width: 100vw;
+}
+
 body {
     background-color: white;
     font-family: 'Kanit', sans-serif;
@@ -104,6 +108,9 @@ h3 {
 .paws-text h2 {
     z-index: 999;
     text-decoration: underline;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.3);
+    size: 35px;
 }
 
 .charity {
