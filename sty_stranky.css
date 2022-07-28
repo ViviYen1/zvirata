@@ -106,12 +106,6 @@ h3 {
     text-decoration: underline;
 }
 
-.paws-text h2:hover {
-    text-transform: scale(1.1);
-    transform: scale(1.1);
-
-}
-
 .charity {
     font-family: 'Square Peg', cursive;
 
