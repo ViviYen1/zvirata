@@ -36,3 +36,6 @@
 .gif {
     text-align: center;
 }
+.gif :hover{
+    transform: scale(1.1);
+}
