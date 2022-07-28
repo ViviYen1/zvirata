@@ -26,6 +26,8 @@
     background-color: pink;
 }
 
-.streamy {
+.str {
     font-family: 'Square Peg', cursive;
+     width: 100vw;
+     border: solid 7px pink;
 }
