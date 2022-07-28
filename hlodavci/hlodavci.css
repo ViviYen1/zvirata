@@ -22,6 +22,9 @@
     width: 100%;
     flex-wrap: wrap;
 }
+.galerie :hover{
+    transform: scale(1.1);
+}
 
 .sipka:hover {
     transform: scale(1.1);

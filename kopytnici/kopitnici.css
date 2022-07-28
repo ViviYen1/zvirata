@@ -36,9 +36,27 @@ body {
     width: 100%;
     flex-wrap: wrap;
 }
+.obrazicek :hover{
+    transform: scale(1.1);
+}
 
 body {
     background-color: pink
+}
+
+.sipka:hover {
+    transform: scale(1.1);
+}
+
+.sipka {
+    position: relative;
+    width: 300px;
+    background-color: pink;
+}
+
+.her {
+    display: flex;
+
 }
 
 .csd {

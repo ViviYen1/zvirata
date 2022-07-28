@@ -24,8 +24,15 @@
     border: solid 7px pink;
     width: 100vw;
     font-family: 'Square Peg', cursive;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
 }
 
 .giff {
     text-align: center;
+    
+}
+.giff :hover{
+    transform: scale(1.1);
 }
