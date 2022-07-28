@@ -209,7 +209,11 @@ h3 {
     display: table-column;
     width: 30vw;
     justify-content: space-between;
+    
 
+}
+.bones:hover {
+    transform: scale(1.1);
 }
 .iop-text h2 {
     z-index: 999;
