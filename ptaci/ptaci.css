@@ -32,3 +32,29 @@
 body {
     background-color: pink;
 }
+
+.sipka:hover {
+    transform: scale(1.1);
+}
+
+.sipka {
+    
+    width: 300px;
+    background-color: pink;
+}
+
+.her {
+    display: flex;
+
+}
+
+.csd {
+    text-decoration: underline;
+    color: black;
+    font-family: 'Square Peg', cursive;
+    position: absolute;
+    top: 90px;
+    left: 165px;
+    font-size: larger;
+
+}
