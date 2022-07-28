@@ -31,8 +31,14 @@
     font-family: 'Square Peg', cursive;
      width: 100vw;
      border: solid 7px pink;
+     display: flex;
+     justify-content: space-evenly;
+     padding: 10px;
 }
 
 .gif {
     text-align: center;
+}
+.gif :hover{
+    transform: scale(1.1);
 }
