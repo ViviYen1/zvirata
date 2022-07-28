@@ -42,3 +42,27 @@
 .gif :hover{
     transform: scale(1.1);
 }
+.sipka:hover {
+    transform: scale(1.1);
+}
+
+.sipka {
+    position: relative;
+    width: 300px;
+    background-color: pink;
+}
+
+.her {
+    display: flex;
+
+}
+
+.csd {
+    text-decoration: underline;
+    color: black;
+    font-family: 'Square Peg', cursive;
+    position: absolute;
+    top: 200px;
+    left: 165px;
+    font-size: larger;
+    }
