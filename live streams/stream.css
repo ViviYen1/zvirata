@@ -18,6 +18,7 @@
     border: solid 7px pink;
     width: 100vw;
     font-family: 'Square Peg', cursive;
+    text-align: center;
 }
 
 .streamii {
@@ -30,4 +31,8 @@
     font-family: 'Square Peg', cursive;
      width: 100vw;
      border: solid 7px pink;
+}
+
+.gif {
+    text-align: center;
 }
