@@ -113,6 +113,18 @@ h3 {
     size: 35px;
 }
 
+.paws a {
+    height: 200px;
+    width: 200px;
+    flex-shrink: 1;
+}
+
+.paws a img {
+    height: 100%;
+    width: 100%;
+    flex-shrink: 1;
+}
+
 .charity {
     font-family: 'Square Peg', cursive;
 
