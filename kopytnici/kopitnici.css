@@ -41,6 +41,21 @@ body {
     background-color: pink
 }
 
+.sipka:hover {
+    transform: scale(1.1);
+}
+
+.sipka {
+    position: relative;
+    width: 300px;
+    background-color: pink;
+}
+
+.her {
+    display: flex;
+
+}
+
 .csd {
     text-decoration: underline;
     color: black;
