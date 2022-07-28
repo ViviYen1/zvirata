@@ -91,13 +91,32 @@ h3 {
 
 .paws {
     display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.paws-text {
+    margin-top: -150px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+.paws-text h2 {
+    z-index: 999;
+    text-decoration: underline;
+}
+
+.paws-text h2:hover {
+    text-transform: scale(1.1);
+    transform: scale(1.1);
+
 }
 
 .charity {
     font-family: 'Square Peg', cursive;
 
-    
-    
+
+
 }
 
 .who {
@@ -134,7 +153,7 @@ h3 {
 }
 
 
-.gh{
+.gh {
     text-align: center;
 }
 
@@ -156,7 +175,7 @@ h3 {
     text-decoration: underline;
 }
 
-.Kontakt{
+.Kontakt {
     border: solid 7px pink;
     width: 100vw;
     background-color: pink;
@@ -164,7 +183,7 @@ h3 {
 
 }
 
-.Konktat{
+.Konktat {
     font-family: 'Square Peg', cursive;
     text-align: center;
 }
