@@ -1,4 +1,4 @@
-.videa {
+.videos {
      text-decoration: underline;
      text-align: center;
      font-family: 'Kanit', sans-serif;
@@ -10,4 +10,24 @@
 .lives {
     border: solid 7px pink;
      width: 100vw;
+     font-family: 'Square Peg', cursive;
+     text-align: start;
+}
+
+.texty {
+    border: solid 7px pink;
+    width: 100vw;
+    font-family: 'Square Peg', cursive;
+}
+
+.streamii {
+    border: solid 7px pink;
+    width: 100vw;
+    background-color: pink;
+}
+
+.str {
+    font-family: 'Square Peg', cursive;
+     width: 100vw;
+     border: solid 7px pink;
 }
