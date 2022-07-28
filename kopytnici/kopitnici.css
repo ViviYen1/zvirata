@@ -1,26 +1,26 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
 .obrazicek img {
-    border: 6px solid pink;
+    border: solid 7px pink;
     width: 30%;
 
 }
 
 .kopytnicii {
 
-    font-family: 'Kanit', sans-serif;
     text-align: center;
-    border: solid 5px pink;
+    border: solid 7px pink;
     width: 100vw;
     background-color: pink;
     text-decoration: underline;
-    text-align: center;
-
-
 }
 
-.kopytníci {
+.kopytnici {
     font-family: 'Kanit', sans-serif;
     text-align: center;
-    border: solid 5px pink;
+    border: solid 7px pink;
     width: 100vw;
     background-color: pink;
 
@@ -40,6 +40,7 @@
 body {
     background-color: pink
 }
+
 .csd {
     text-decoration: underline;
     color: black;
