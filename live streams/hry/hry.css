@@ -1,0 +1,16 @@
+.ani {
+    border: solid 7px pink;
+    width: 100vw;
+    background-color: pink;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Kanit', sans-serif;
+}
+
+.livee {
+    border: solid 7px pink;
+    width: 100vw;
+    background-color: pink;
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+}
