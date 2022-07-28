@@ -1,5 +1,15 @@
 .videa {
      text-decoration: underline;
      text-align: center;
-    text-decoration: underline;
+     font-family: 'Kanit', sans-serif;
+     border: solid 7px pink;
+     width: 100vw;
+     background-color: pink;
+}
+
+.lives {
+    border: solid 7px pink;
+     width: 100vw;
+     font-family: 'Square Peg', cursive;
+     text-align: start;
 }
