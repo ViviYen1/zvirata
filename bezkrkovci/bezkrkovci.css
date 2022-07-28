@@ -27,6 +27,10 @@
     justify-content: space-evenly;
     width: 100%;
     flex-wrap: wrap;
+    
+}
+.lo :hover{
+    transform: scale(1.1);
 }
 
 body {

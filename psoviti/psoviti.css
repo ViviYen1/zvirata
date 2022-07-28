@@ -56,3 +56,6 @@ body {
     font-size: larger;
 
 }
+.ik :hover{
+    transform: scale(1.1);
+}

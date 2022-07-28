@@ -36,6 +36,9 @@ body {
     width: 100%;
     flex-wrap: wrap;
 }
+.obrazicek :hover{
+    transform: scale(1.1);
+}
 
 body {
     background-color: pink
